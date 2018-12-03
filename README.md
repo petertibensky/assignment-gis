@@ -10,6 +10,11 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 - [Open Street Maps](https://www.openstreetmap.org/)
 
+## Course
+**Name**: Peter Tibenský
+
+**Course** Monday, 10:00 am
+
 ## My project
 
 **Application description**: Aplikácia na vyhľadávanie zastávok, trás vozidiel verejnej dopravy alebo trás po vozovkách. 

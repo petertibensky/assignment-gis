@@ -1,3 +1,4 @@
+**Autor**: Peter Tibenský
 #1	Cieľ projektu
 Cieľom projektu je vytvoriť webovú aplikáciu, ktorá umožňuje zobrazovať geografické dáta na mape a filtrovať, prípadne vyhľadávať v nich. Aplikácia má pozostávať zo serverovej časti, klientskej časti a mapy, ktorá obsahuje vlastný štýl.
 #2	Realizácia
